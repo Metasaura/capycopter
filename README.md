@@ -8,11 +8,16 @@
 - пропелеры 5x4,3x3
 - корпус резинавые демпферы
 - пульт xpresslrs 2.4GHz
-- батарея - 1300-1500mAh
-- антена
+- батарея - 1300-1500mAh,4s
+- антенnа
+  - elrs:whip
+  - 5.8GHz,RHSP,50Om,разьёмsma9(vdx)
 - контроллер - F7,гераскоп ASM/MPU,прошивка-betaflight
 - камера - аналагавая 5.8GHz,VTX600-800mW(runcam phoenix)
-- зарядка для акума
-- vpv очки
+- зарядка для акума подтержлка 4S 1-5A,storage mode
+- fpv очки
+  - doversiti receiver
+  - DVR
 - желание
 - ESC 35-45A
+- LiPo-save мешок
