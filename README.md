@@ -25,16 +25,24 @@
 
 ## BOM (Bill of Materials)
 
+### Дрон
+
 * [iFlight XING2 2207 2-6S FPV Motor 1750KV](https://1dronas.lt/produktas/iflight-xing2-2207-2-6s-fpv-motor-1750kv/)
 * [Nazgul F5 3-ašmenų propeleriai 5mm](https://1dronas.lt/produktas/nazgul-f5-3-asmenu-propeleriai-5mm/)
+* [GEPRC GEP-F405-HD V2 FC](https://1dronas.lt/produktas/geprc-gep-f405-hd-v2-fc/)
+* [GEPRC TAKER H60_BLS 60A 4IN1 ESC](https://1dronas.lt/produktas/geprc-taker-h60_bls-60a-4in1-esc/)
+* [GEPRC MATEN 5.8G 1.6W VTX](https://1dronas.lt/produktas/geprc-maten-5-8g-1-6w-vtx/)
+* [GEPRC ELRS Nano 2.4G PA100 Receiver](https://1dronas.lt/produktas/geprc-elrs-nano-2-4g-pa100-receiver/)
+* [RunCam Phoenix 2 SP V5](https://1dronas.lt/produktas/runcam-phoenix-2-sp-v5-kamera/)
+
+### Управление
+
 * [RadioMaster T8L Radio Controller ELRS (Mode 2)](https://1dronas.lt/produktas/radiomaster-t8l-radio-elrs-mode-2/)
 * [RadioMaster 18650 3200mAh 3.7V Battery](https://1dronas.lt/produktas/18650-3200mah-3-7v-battery-2pcs/)
 * [Akumuliatorius CNHL MiniStar 1500mAh 22.2V 6S 120C – XT60](https://1dronas.lt/produktas/baterija-cnhl-ministar-1500mah-22-2v-6s-120c-xt60/)
+* [BETAFPV VR04 Analog FPV](https://1dronas.lt/produktas/betafpv-vr04-analog-fpv-akiniai/)
+
+### Инструменты
+
 * [HOTA P6 600W 15A 1-6S DC Smart Charger](https://1dronas.lt/produktas/hota-p6-600w-15a-1-6s-dc-smart-charger/)
 * [BETAFPV Baterijų saugojimo krepšys](https://1dronas.lt/produktas/betafpv-bateriju-saugojimo-krepsys/)
-* [GEPRC GEP-F405-HD V2 FC](https://1dronas.lt/produktas/geprc-gep-f405-hd-v2-fc/)
-* [GEPRC TAKER H60_BLS 60A 4IN1 ESC](https://1dronas.lt/produktas/geprc-taker-h60_bls-60a-4in1-esc/)
-* [BETAFPV VR04 Analog FPV](https://1dronas.lt/produktas/betafpv-vr04-analog-fpv-akiniai/)
-* [GEPRC MATEN 5.8G 1.6W VTX](https://1dronas.lt/produktas/geprc-maten-5-8g-1-6w-vtx/)
-* [RunCam Phoenix 2 SP V5](https://1dronas.lt/produktas/runcam-phoenix-2-sp-v5-kamera/)
-* [GEPRC ELRS Nano 2.4G PA100 Receiver](https://1dronas.lt/produktas/geprc-elrs-nano-2-4g-pa100-receiver/)
