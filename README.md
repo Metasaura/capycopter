@@ -41,8 +41,11 @@
 * [RadioMaster 18650 3200mAh 3.7V Battery](https://1dronas.lt/produktas/18650-3200mah-3-7v-battery-2pcs/)
 * [Akumuliatorius CNHL MiniStar 1500mAh 22.2V 6S 120C – XT60](https://1dronas.lt/produktas/baterija-cnhl-ministar-1500mah-22-2v-6s-120c-xt60/)
 * [BETAFPV VR04 Analog FPV](https://1dronas.lt/produktas/betafpv-vr04-analog-fpv-akiniai/)
+* [RadioMaster kaklo dirželis](https://1dronas.lt/produktas/radiomaster-kaklo-dirzelis/)
 
 ### Инструменты
 
 * [HOTA P6 600W 15A 1-6S DC Smart Charger](https://1dronas.lt/produktas/hota-p6-600w-15a-1-6s-dc-smart-charger/)
+* [HOTA T330 GaN 27V 12.3A 330W Power Supply](https://1dronas.lt/produktas/hota-t330-gan-27v-12-3a-330w-power-supply/)
 * [BETAFPV Baterijų saugojimo krepšys](https://1dronas.lt/produktas/betafpv-bateriju-saugojimo-krepsys/)
+* [GEPRC Smoke Stopper](https://1dronas.lt/produktas/geprc-smoke-stopper/)
