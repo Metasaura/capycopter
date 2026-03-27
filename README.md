@@ -31,7 +31,7 @@
 * [Nazgul F5 3-ašmenų propeleriai 5mm](https://1dronas.lt/produktas/nazgul-f5-3-asmenu-propeleriai-5mm/)
 * [GEPRC GEP-F405-HD V2 FC](https://1dronas.lt/produktas/geprc-gep-f405-hd-v2-fc/)
 * [GEPRC TAKER H60_BLS 60A 4IN1 ESC](https://1dronas.lt/produktas/geprc-taker-h60_bls-60a-4in1-esc/)
-* [GEPRC MATEN 5.8G 1.6W VTX](https://1dronas.lt/produktas/geprc-maten-5-8g-1-6w-vtx/)
+* [SpeedyBee TX800 5.8GHz 800mW VTX](https://1dronas.lt/produktas/speedybee-tx800/)
 * [GEPRC ELRS Nano 2.4G PA100 Receiver](https://1dronas.lt/produktas/geprc-elrs-nano-2-4g-pa100-receiver/)
 * [RunCam Phoenix 2 SP V5](https://1dronas.lt/produktas/runcam-phoenix-2-sp-v5-kamera/)
 
